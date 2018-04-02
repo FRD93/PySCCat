@@ -1,0 +1,26 @@
+pygtk-configparser is a GTK GUI inteface for creating and modifying pythons config parser configuration files.
+Iz be gud u shld use it if u be needin' it yo, 
+It works on my Ubuntu 10.04,
+
+TODO:
+do stuff with argument options
+add more better signals handling
+fix right click context menu
+addd menu options to view
+check that it works on windows and mac
+add threading support(no threading atm, just started adding)
+
+### BEGIN LICENSE
+# Copyright (C) Alex Goretoy <alex@goretoy.com>
+#This program is free software: you can redistribute it and/or modify it 
+#under the terms of the GNU General Public License version 3, as published 
+#by the Free Software Foundation.
+#
+#This program is distributed in the hope that it will be useful, but 
+#WITHOUT ANY WARRANTY; without even the implied warranties of 
+#MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR 
+#PURPOSE.  See the GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License along 
+#with this program.  If not, see <http://www.gnu.org/licenses/>.
+### END LICENSE
