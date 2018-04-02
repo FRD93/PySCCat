@@ -1,0 +1,9 @@
+MINIMUM AND MAXIMUM VALUES FOR POTENTIOMETERS:
+
+ POT      MIN     MAX
+
+Pot 1      0      600
+Pot 2      0      668
+Pot 3      0      592
+Pot 4      0      512
+Pot 5      0      624
